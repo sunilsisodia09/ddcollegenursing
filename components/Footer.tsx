@@ -117,9 +117,9 @@ export default function Footer() {
             </div>
 
             <div>
-              <h2 className="text-xl font-extrabold leading-tight text-white">
+              <h4 className="text-xl font-extrabold leading-tight text-white">
                 Divya Drishti College of Nursing and Medical Science
-              </h2>
+              </h4>
 
               <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-[#f4b400]">
                 Dehradun
