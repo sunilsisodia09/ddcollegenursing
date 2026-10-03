@@ -118,7 +118,7 @@ export default function Footer() {
 
             <div>
               <h2 className="text-xl font-extrabold leading-tight text-white">
-                DIVYA DRISHTI COLLEGE OF NURSING AND MEDICAL SCIENCE
+                Divya Drishti College of Nursing and Medical Science
               </h2>
 
               <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-[#f4b400]">
