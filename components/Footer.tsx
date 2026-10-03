@@ -118,7 +118,7 @@ export default function Footer() {
 
             <div>
               <h2 className="text-xl font-extrabold leading-tight text-white">
-                D.D. COLLEGE
+                DIVYA DRISHTI COLLEGE OF NURSING AND MEDICAL SCIENCE
               </h2>
 
               <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-[#f4b400]">
@@ -128,7 +128,7 @@ export default function Footer() {
           </Link>
 
           <p className="mt-5 text-sm leading-7 text-slate-300">
-            D.D. College, Dehradun is committed to providing quality
+            Divya Drishti College of Nursing and Medical Science is committed to providing quality
             education, professional development and a supportive learning
             environment for students.
           </p>
@@ -198,7 +198,7 @@ export default function Footer() {
               />
 
               <span>
-                D.D. College,
+                Divya Drishti College of Nursing and Medical Science,
                 <br />
                 Dehradun, Uttarakhand, India
               </span>
@@ -303,7 +303,7 @@ export default function Footer() {
             </p>
 
             <p className="mt-1 text-sm text-slate-400">
-              Start your journey with D.D. College, Dehradun.
+              Start your journey with Divya Drishti College of Nursing and Medical Science.
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function Footer() {
         <div className="mx-auto flex max-w-7xl flex-col gap-3 px-5 py-5 text-sm text-slate-400 sm:px-6 md:flex-row md:items-center md:justify-between">
 
           <p>
-            © {new Date().getFullYear()} D.D. College, Dehradun.
+            © {new Date().getFullYear()} Divya Drishti College of Nursing and Medical Science, Dehradun
             All rights reserved.
           </p>
 
