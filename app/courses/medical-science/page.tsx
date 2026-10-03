@@ -323,7 +323,7 @@ export default function MedicalSciencePage() {
             </h2>
 
             <p className="mt-6 text-lg leading-8 text-slate-600">
-              D.D. College's Department of Health Sciences provides
+              D.D. College&apos;s Department of Health Sciences provides
               professional programmes designed around healthcare,
               nursing and pharmaceutical education.
             </p>

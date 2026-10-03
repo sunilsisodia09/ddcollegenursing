@@ -543,7 +543,7 @@ export default function AboutPage() {
               </h2>
 
               <p className="mt-5 leading-8 text-gray-600">
-                We believe that a student's college experience should help
+                We believe that a student&apos;s college experience should help
                 build both academic knowledge and the skills required for
                 future opportunities.
               </p>

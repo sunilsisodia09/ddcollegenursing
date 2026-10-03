@@ -314,12 +314,12 @@ export default function LeadershipPage() {
 
               <div className="p-7 sm:p-10 lg:p-14">
                 <span className="inline-flex rounded-full border border-[#f4b400]/30 bg-[#f4b400]/10 px-4 py-2 text-xs font-bold uppercase tracking-wider text-[#f5c542]">
-                  Chairman's Message
+                  Chairman&apos;s Message
                 </span>
 
                 <blockquote className="mt-7 text-xl font-semibold leading-9 text-white sm:text-2xl">
-                  "Education creates opportunities, develops character and
-                  empowers students to contribute meaningfully to society."
+                &quot;Education creates opportunities, develops character and
+                  empowers students to contribute meaningfully to society.&quot;
                 </blockquote>
 
                 <div className="mt-7 h-px w-16 bg-[#f4b400]" />
@@ -355,7 +355,7 @@ export default function LeadershipPage() {
         <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-20">
           <div className="order-2 lg:order-1">
             <span className="inline-flex rounded-full bg-[#050816]/5 px-4 py-2 text-sm font-bold text-[#050816]">
-              PRINCIPAL'S MESSAGE
+              PRINCIPAL&apos;S MESSAGE
             </span>
 
             <h2 className="mt-5 text-3xl font-extrabold leading-tight text-[#050816] sm:text-4xl">
@@ -379,9 +379,9 @@ export default function LeadershipPage() {
 
             <div className="mt-8 rounded-2xl border-l-4 border-[#f4b400] bg-white p-6 shadow-sm">
               <p className="font-semibold leading-7 text-[#050816]">
-                "Every student has the potential to learn, grow and create a
+                &quot;Every student has the potential to learn, grow and create a
                 meaningful future. Our responsibility is to provide the
-                environment and guidance that helps them move forward."
+                environment and guidance that helps them move forward.&quot;
               </p>
 
               <p className="mt-4 text-sm font-bold text-[#b98600]">

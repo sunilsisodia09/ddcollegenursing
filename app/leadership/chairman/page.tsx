@@ -95,7 +95,7 @@ export default function ChairmanPage() {
                 href="#chairman-message"
                 className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#f4b400] px-6 py-3.5 font-bold text-[#050816] transition hover:bg-[#f5c542]"
               >
-                Chairman's Message
+                Chairman&apos;s Message
                 <ArrowRight size={18} />
               </a>
 
@@ -249,7 +249,7 @@ export default function ChairmanPage() {
             <div className="p-7 sm:p-10 lg:p-14">
 
               <span className="inline-flex rounded-full border border-[#f4b400]/30 bg-[#f4b400]/10 px-4 py-2 text-xs font-bold uppercase tracking-wider text-[#f5c542]">
-                Chairman's Message
+                Chairman&apos;s Message
               </span>
 
               <h2 className="mt-6 text-3xl font-extrabold leading-tight sm:text-4xl">
@@ -261,8 +261,8 @@ export default function ChairmanPage() {
 
               {/* Replace this with verified official message */}
               <blockquote className="mt-8 border-l-4 border-[#f4b400] pl-6 text-xl font-semibold leading-9 text-white sm:text-2xl">
-                "Education creates opportunities, develops character and
-                empowers students to contribute meaningfully to society."
+                &quot;Education creates opportunities, develops character and
+                empowers students to contribute meaningfully to society.&quot;
               </blockquote>
 
               <div className="mt-8 h-px w-16 bg-[#f4b400]" />
@@ -319,7 +319,7 @@ export default function ChairmanPage() {
             </h2>
 
             <p className="mt-4 leading-7 text-gray-600">
-              The institution's leadership is focused on creating a strong
+              The institution&apos;s leadership is focused on creating a strong
               academic environment and supporting students throughout their
               educational journey.
             </p>
@@ -366,7 +366,7 @@ export default function ChairmanPage() {
           <div>
 
             <span className="inline-flex rounded-full bg-[#050816]/5 px-4 py-2 text-sm font-bold text-[#050816]">
-              CHAIRMAN'S ROLE
+              CHAIRMAN&apos;S ROLE
             </span>
 
             <h2 className="mt-5 text-3xl font-extrabold leading-tight text-[#050816] sm:text-4xl">
